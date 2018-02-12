@@ -1,0 +1,15 @@
+#dynamic 0xFA0000
+
+#org @start
+trainerbattle 0x0 0x0 0x0 @before @after
+msgbox @beaten 0x6
+release
+end
+
+#org @before
+
+
+#org @after
+
+
+#org @beaten

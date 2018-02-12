@@ -1,0 +1,16 @@
+Trainer Sprite Data
+
+1124 - Hiker
+1125 - Silver (2nd)
+1130 - Marley (3rd)
+1137 - Chris (5th)
+1177 - Youngster
+1195 - Ethan (4th)
+1197 - Bug Catcher
+1207 - Adam and Scarlett (7th)
+1208 - Blue (8th)
+1209 - Thomas (9th)
+1210 - John (12th)
+1211 - Elesa (11th)
+1212 - Kate (10th)
+1213 - Avril (6th)

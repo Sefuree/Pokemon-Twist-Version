@@ -1,0 +1,56 @@
+23 - Cursors
+30 - Numbers and Semi
+57 - Numbers
+58-151 - Tiles + Raws
+152 - Rayquaza Intro
+155 - Clouds
+156 - Badges
+157 - FRLG Badges
+158-198 - Battle Frontier? Menus?
+199-225 - Small Icons (Aqua 199/Magma 225)
+226-242 - Unknown
+243-244 - Cursors
+245-252 - Unknown
+253 - Pikachu
+254-255 - Unknown
+256-262 - Choose Pokemon Bag/etc
+263-271 - Unknown
+272 - Opening Pokemon Sprites
+273-293 - Unknown
+294 - GameFreak Presents/Logo
+295-300 - Unknown
+301-321 - Opening Sprites/etc
+322-332 - PokeNav?
+333-348 - Unknown
+349-354 - Ribbons
+355-388 - Pokemon Sprites/Unknown Forms
+389-393 - Unknown
+394-407 - Ingame Pokeballs
+408-510 - Attack Animations
+511-518 - Pokemon Contest Sprites
+519-653 - Pokemon Contest/Attack Animations
+654-1103 - Old Pokemon Sprites
+1124-1216 - Trainer Sprites (64x64)
+1199-1230 - Battle Backgrounds + Raws
+1272 - Cancel/Exit Buttons
+1275-1294 - Intro Graphics
+1355-1356 - Bags
+1367 - Money
+1378-1420 - Barries
+1421-1455 - Groudon/Rayquaza Intro?
+1464-1678 -Item Sprites
+1761-1774 - Pokedex
+1795 - Copyright
+1789 - Map Options
+1807 - Cool/Tough/etc Graph
+1809 - Slots Screen
+1812-1823 - Trainer Card?
+1846 - Pokemon Logo
+1847 - Emerald Logo
+1848 - Press Start
+1850 - Frontier Pass
+1854-2617 - Pokemon Sprites
+2618 - Types Icons
+2697 - Textbox? Battle Icons?
+2709 - Mega Evolution Icon?
+2710-2711 - Aqua/Magma Logo?

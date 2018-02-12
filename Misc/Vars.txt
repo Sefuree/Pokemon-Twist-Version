@@ -1,0 +1,174 @@
+*Vars*
+
+0x4023
+	--> 0x0 = 0.9 LS [SET]
+	--> 0x1 =
+
+0x4053
+	--> 0x0 = 0.9 Before you leave [SET]
+	--> 0x1 = 0.9 Sethealingplace 0x01 [SET]
+	--> 0x2 = 0.10 Tate & Liza [SET]
+
+
+
+
+0x4010 (This controls on how overworld #240 should appear as another overworld sprite number. Usage: setvar 0x4010 0xYYYY. YYYY should be an overworld sprite number. This should mostly be used in the "03 On entering map/not on menu close" map because it should have the sprite load first before viewing it in the game. Overall used in map scripts to make overworld #240 appear as May or Brendan if you are playing as Boy or Girl respectively.)
+
+0x4023 (overall used in checking choice of starter)
+0x0 - 
+0x1 - 
+0x2 - starter slot 3 (Torchic's slot)
+
+0x4048 (This controls on how many steps you take in every Behavior Byte 24 tiles. Usage: if you have tiles that its behavior byte is 24 and every time you step on those tile, each step is internally addvar 0x4048 0x1. From the man overworld entity inside the house on Route 913, it actually subvar 0x4048 0xYYYY as 0xYYYY is the price of the item. Overall used in a Soot Sack mini-game to obtain items and in the Route 913 house's man's script.)
+
+0x4053 (overall used in encountering Brendan/May in Lavaridge Town)
+0x0 - Nothing important to happen!
+0x1 - Encountering Brendan/May in Lavaridge Town (after defeating Flannery)
+0x2 - Confirming done! Nothing more to happen (previous script)
+
+0x4057 (overall used in Wally catch Ralts in Petalburg City)
+0x0 - 
+0x1 - 
+0x2 - enables Wally catch script when entering Petalburg City (previous script)
+0x3 - 
+0x4 - Wally's relative gives you Surf
+0x5 - 
+
+0x405A (overall used around Rustboro City)
+0x0 - Nothing important to happen!
+0x1 - Team Aqua Grunt steals the goods and runs away from Devon Corp. (defeating Roxanne)
+0x2 - The Devon Corp. Guy tells you that the Grunt goes to the cave (previous script)
+0x4 - The Devon Corp. Guy takes you to Devon Corp. (defeated Team Aqua Grunt in Rusturf Tunnel)
+0x5 - Nothing important to happen! (previous script)
+0x6 - The Devon Researcher upgrades your PokeNav after leaving Devon Corp. (after talking with Mr. Stone at Devon Corp.)
+0x7 - Encountering Brendan/May in Rustboro City (previous script)
+0x8 - Nothing more to happen! (previous script and talking to Mr. Britney in Route 104)
+
+0x4063
+0x1 - (Devon Researcher upgrades your PokeNav after leaving Devon Corp.)
+0x2 - Encountering Brendan/May in Route 904 (Encountering Brendan/May in Rustboro City and talking to Mr. Britney in Route 104)
+
+0x4069 (overall used in rival battle in Route 110)
+0x0 - Battle Brendan/May in Route 110
+0x1 - Confirming done! Nothing more to happen (previous script)
+
+0x406F
+0x0 - Nothing important to happen!
+0x1 - "Wrroarr! Peeko!" Mr. Britney at Route 116 (Team Aqua Grunt stole the goods)
+
+0x4071 (overall used in encountering Steven in Route 118)
+0x0 - Encounter Steven in Route 118 (script enabled)
+0x1 - Confirming done! Nothing more to happen (previous script)
+
+0x4072 (overall used in Rival battle in Route 119)
+0x0 - Battle Brendan/May in Route 119
+0x1 - Confirming done! Nothing more to happen (previous script)
+
+0x4082
+0x3 - (entering Hall of Fame)
+
+0x4085 (also overall used in Wally catch Ralts in Petalburg City)
+0x0 - 
+0x1 - Next scene while returning to Petalburg Gym (Wally catches Zigzagoon)
+0x2 - Confirming event done (previous script)
+
+0x4086 (unknown)
+0x0 - (triggered when entering Verdanturf Town)
+
+0x408C
+0x3 - (entering Hall of Fame)
+
+0x408E
+0x0 - Nothing important to happen!
+0x1 - Mr. Britney takes you to Dewford Town (talking to him in Route 104)
+0x2 - Mr. Britney takes you from Deword to Petalburg (talking to him)
+
+0x408F
+0x1 - (after talking the Mr. Stone at Devon Corp.)
+
+0x4090
+0x1 - Controls Mr. Britney and Peeko's OWs in Route 104 (defeated Team Aqua Grunt in Rusturf Tunnel)
+
+0x4093 (overall used in changing mazes in Mauville Gym)
+0x0 - clear, no maze
+0x1-0x4 - set mazes, different mazes
+
+0x4096
+0x0 - (talking Mr. Britney at Slateport Beach)
+0x1 - (after talking the Mr. Stone at Devon Corp.)
+
+0x4098
+0x0 - Encounter a Devon Corp. Guy and a Team Aqua Grunt
+0x1 - Confirming Done!
+
+0x409A
+0x0 - Nothing important to happen!
+0x1 - Nothing important to happen!
+0x2 - Team Aqua Grunt tells you to back off in Rusturf Tunnel (Team Aqua Grunt stole the goods)
+0x3 - (previous script)
+0x4 - 
+0x5
+0x6 - (triggers after the karate boy and the lady leave Rusturf Tunnel)
+
+0x409C (overall used in Pokemon League)
+0x0 - haven't entered Sidney's room (returns to 0x0 at the Hall of Fame room script)
+0x1 - checks if Sidney's room is closed (triggered when entering Sidney's room script)
+0x2 - checks if Phoebe's room is closed (triggered when entering Phoebe's room script)
+0x3 - checks if Glacia's room is closed (triggered when entering Glacia's room script)
+0x4 - checks if Drake's room is closed (triggered when entering Drake's room script)
+
+0x40AA (overall used in Slateport Museum)
+0x0 - If you haven't paid, you may not proceed
+0x1 - If you paid, you may proceed.
+
+0x40B3 (overall used for controlling the Weather institute scientist guy's position)
+0x0 - The scientist guy is positioned behind Shelly / The 1st-floor kid is positioned at a step before the bed
+0x1 - The scientist guy is positioned on Shelly's after escape (triggered after battle with Shelly at Weather institute)
+
+0x40BF (overall used in encountering Team Magma in Meteor Falls)
+0x0 - Encountering Team Magma in Meteor Falls
+0x1 - Confirming done! Nothing more to happen! (previous script)
+
+0x40C6
+0x0 - 
+0x1 - 
+0x2 - (entering Hall of Fame)
+
+0x40C8
+0x0
+0x1 - Jagged Pass feels the presence of the Magma Emblem (triggered...)
+0x2 - Disables script, higher value than 0x1 keeps door open (triggered if opened the door)
+
+0x40C9
+0x0 - Encountering Scott in Petalburg City
+0x1 - 
+
+0x40CB (overall used in Mirage Tower)
+0x0 - Nothing important to happen!
+0x1 - Mirage Tower done and disappeared! Nothing more to happen! (if you picked a fossil inside)
+
+0x40CC (ensures if League is done?)
+0x0 - 
+0x1 - (entering Hall of Fame)
+
+0x40D1
+0x0 - 
+0x1 - (Scott again if you are entering Slateport Battle Tent)
+
+0x40D2
+0x0 - Nothing important to happen!
+0x1 - Encountering Scott after leaving Slateport Museum (Encountering Capt. Stern in Slateport Museum)
+0x2 - Scott again if you are entering Slateport Battle Tent (previous script)
+0x3 - (previous script)
+
+0x40D3
+0x0 - 
+0x1 - (entering Hall of Fame)
+
+0x40D7
+0x0 - 
+0x1 - 
+
+0x40DA
+0x0 - Nothing important to happen!
+0x1 - Encountering Prof. Birch at Route 110 (Encountering Capt. Stern in Slateport Museum)

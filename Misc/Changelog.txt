@@ -1,0 +1,39 @@
+9C0B20-AFFFFF
+B98B30-BFFFFB
+D3CEA0-D437EF
+DE4018-E3CF48
+E3CF64-1FFFFFF
+
+Scripts = 0x0FA0000
+
+
+v1 - Expanded ROM
+v2 - FF byte patch
+v3 - Emerald Battle Engine
+		--> Inserted @ 0x09C0C00
+		--> Wrote from 0x09C0C00 to 0x0A02DEF
+v4 - New Animated Sprites
+		--> Inserted @ 0x0E3D0D0
+		--> Wrote from 0xE3D0D0 to 0x0F935EB
+		--> Inserted 0x15651C bytes = 1402140 bytes
+v5 - Pokemon Edits
+		--> Decap all Pokemon names
+		--> Fairy type changes
+		--> Sprite position changes
+		Hex Helper
+			--> Running indoors
+			--> Pomeg Berry fix
+			--> Dex seen in menu
+		Intro Manager
+			--> Truck removed
+			--> Skip gender choice
+			--> Intro Pokemon changed to Sableye
+v6 - Editing 25.4
+		Expanded 25.4 to 22x18
+			--> 0x0A03000
+		Removed 25.4 Map Scripts
+			--> 0x0A03348
+		Changed 25.4 Eevents
+			--> 0x0A033E8
+v7 - New Compression
+v8 - 

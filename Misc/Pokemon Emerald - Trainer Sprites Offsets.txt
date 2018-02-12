@@ -1,0 +1,373 @@
+Pokemon Emerald - Trainer Sprites Offsets
+
+		Hiker - 1124 
+			Image @ 0x0D51DC8
+			Palette @ 0x0D52248
+			
+		Aqua Grunt Male - 1125
+			Image @ 0x0D52270
+			Palette @ 0x0D525D0
+			
+		Breeder Female - 1126
+			Image @ 0x0D525F8
+			Palette @ 0x0D5292C
+			
+		Cool Trainer Male - 1127
+			Image @ 0x0D52954
+			Palette @ 0x0D52C3C
+			
+		Bird Keeper - 1128
+			Image @ 0x0D52C64
+			Palette @ 0x0D52F9C
+			
+		Super Nerd - 1129
+			Image @ 0x0D533F0
+			Palette @ 0x0D533C8
+			
+		Aqua Grunt Female - 1130
+			Image @ 0x0D533F0
+			Palette @ 0x0D5372C
+			
+		Swimmer Male - 1131
+			Image @ 0x0D53754
+			Palette @ 0x0D53A14
+			
+		Magma Grunt Male - 1132
+			Image @ 0x0D53A3C
+			Palette @ 0x0D53DBC
+
+		Expert Male - 1133
+			Image @ 0x0D53DE4
+			Palette @ 0x0D54124
+
+		Aqua Admin Matt - 1134
+			Image @ 0x0D5414C
+			Palette @ 0x0D54500
+
+		Black Belt - 1135
+			Image @ 0x0D54528
+			Palette @ 0x0D5488C
+
+		Aqua Admin Shelly - 1136
+			Image @ 0x0D548B4
+			Palette @ 0x0D54C78
+
+		Aqua Leader Archie - 1137
+			Image @ 0x0D54CA0
+			Palette @ 0x0D54FDC
+
+		Hex Maniac - 1138
+			Image @ 0x0D55004
+			Palette @ 0x0D55370
+
+		Aroma Lady - 1139
+			Image @ 0x0D55398
+			Palette @ 0x0D5565C
+
+		Ruin Maniac - 1140
+			Image @ 0x0D55684
+			Palette @ 0x0D55A20
+
+		Interviewers - 1141
+			Image @ 0x0D55A48
+			Palette @ 0x0D55EEC
+
+		Tuber Female - 1142
+			Image @ 0x0D55F14
+			Palette @ 0x0D561B8
+
+		Tuber Male - 1143
+			Image @ 0x0D561E0
+			Palette @ 0x0D5646C
+
+		Cool Trainer Female - 1144
+			Image @ 0x0D56494
+			Palette @ 0x0D567A8
+
+		Lady - 1145
+			Image @ 0x0D567D0
+			Palette @ 0x0D56B84
+
+		Beauty - 1146
+			Image @ 0x0D56BAC
+			Palette @ 0x0D56E94
+
+		Rich Boy - 1147
+			Image @ 0x0D56EBC
+			Palette @ 0x0D57170
+
+		Expert Female - 1148
+			Image @ 0x0D57198
+			Palette @ 0x0D574B4
+
+		Poke Maniac - 1149
+			Image @ 0x0D574DC
+			Palette @ 0x0D5784C
+
+		Magma Grunt Female - 1150
+			Image @ 0x0D57874
+			Palette @ 0x0D57C00
+
+		Guitarist - 1151
+			Image @ 0x0D57C28
+			Palette @ 0x0D57FAC
+
+		Kindler - 1152
+			Image @ 0x0D57FD4
+			Palette @ 0x0D58340
+
+		Camper - 1153
+			Image @ 0x0D58368
+			Palette @ 0x0D58650
+
+		Picnicker - 1154
+			Image @ 0x0D58678
+			Palette @ 0x0D58958
+
+		Bug Maniac - 1155
+			Image @ 0x0D58980
+			Palette @ 0x0D58DD0
+
+		Breeder Male - 1156
+			Image @ 0x0D58DF8
+			Palette @ 0x0D59128
+
+		Psychic Male - 1157
+			Image @ 0x0D59150
+			Palette @ 0x0D5947C
+
+		Psychic Female - 1158
+			Image @ 0x0D594A4
+			Palette @ 0x0D597CC
+
+		Gentleman - 1159
+			Image @ 0x0D597F4
+			Palette @ 0x0D59AF4
+
+		Elite 4 Sydney - 1160
+			Image @ 0x0D59B1C
+			Palette @ 0x0D59E50
+
+		Elite 4 Phoebe - 1161
+			Image @ 0x0D59E78
+			Palette @ 0x0D5A178
+
+		Elite 4 Glacia - 1162
+			Image @ 0x0D5A1A0
+			Palette @ 0x0D5A524
+
+		Elite 4 Drake - 1163
+			Image @ 0x0D5A54C
+			Palette @ 0x0D5A8F4
+
+		Gym Leader Roxanne - 1164
+			Image @ 0x0D5A91C
+			Palette @ 0x0D5AC08
+
+		Gym Leader Brawly - 1165
+			Image @ 0x0D5AC30
+			Palette @ 0x0D5AFC4
+
+		Gym Leader Wattson - 1166
+			Image @ 0x0D5AFEC
+			Palette @ 0x0D5B334
+
+		Gym Leader Flannery - 1167
+			Image @ 0x0D5B35C
+			Palette @ 0x0D5B6DC
+
+		Gym Leader Norman - 1168
+			Image @ 0x0D5B704
+			Palette @ 0x0D5BA40
+
+		Gym Leader Winona - 1169
+			Image @ 0x0D5BA68
+			Palette @ 0x0D5BDE8
+
+		Gym Leaders Tate & Liza - 1170
+			Image @ 0x0D5BE10
+			Palette @ 0x0D5C254
+
+		Gym Leader Juan - 1171
+			Image @ 0x0D5C27C
+			Palette @ 0x0D5C624
+
+		School Kid Male - 1172
+			Image @ 0x0D5C64C
+			Palette @ 0x0D5C90C
+
+		School Kid Female - 1173
+			Image @ 0x0D5C934
+			Palette @ 0x0D5CBD0
+
+		Teammates - 1174
+			Image @ 0x0D5CBF8
+			Palette @ 0x0D5D068
+
+		Poke Fan Male - 1175
+			Image @ 0x0D5D090
+			Palette @ 0x0D5D44C
+
+		Poke Fan Female - 1176
+			Image @ 0x0D5D474
+			Palette @ 0x0D5D840
+
+		Youngster - 1177
+			Image @ 0x0D5D868
+			Palette @ 0x0D5DB10
+
+		Champion Wallace - 1178
+			Image @ 0x0D5DB38
+			Palette @ 0x0D5DF8C
+
+		Fisherman - 1179
+			Image @ 0x0D5DFB4
+			Palette @ 0x0D5E398
+
+		Cyclist Male - 1180
+			Image @ 0x0D5E3C0
+			Palette @ 0x0D5E7D0
+
+		Cyclist Female - 1181
+			Image @ 0x0D5E7F8
+			Palette @ 0x0D5EC04
+
+		Runner Male - 1182
+			Image @ 0x0D5EC2C
+			Palette @ 0x0D5EEE4
+
+		Runner Female - 1183
+			Image @ 0x0D5EF0C
+			Palette @ 0x0D5F1B0
+
+		Tri Swimmer Male - 1184
+			Image @ 0x0D5F1D8
+			Palette @ 0x0D5F504
+
+		Tri Swimmer Female - 1185
+			Image @ 0x0D5F52C
+			Palette @ 0x0D5F808
+
+		Dragon Tamer - 1186
+			Image @ 0x0D5F830
+			Palette @ 0x0D5FB84
+
+		Ninja Boy - 1187
+			Image @ 0x0D5FBAC
+			Palette @ 0x0D5FE88
+
+		Battle Girl - 1188
+			Image @ 0x0D5FEB0
+			Palette @ 0x0D601D0
+
+		Parasol Lady - 1189
+			Image @ 0x0D601F8
+			Palette @ 0x0D60530
+
+		Swimmer Female - 1190
+			Image @ 0x0D60558
+			Palette @ 0x0D60828
+
+		Twins - 1191
+			Image @ 0x0D60850
+			Palette @ 0x0D60C14
+
+		Sailor - 1192
+			Image @ 0x0D60C3C
+			Palette @ 0x0D60FEC
+
+		Magma Admin Tabitha - 1193
+			Image @ 0x0D61014
+			Palette @ 0x0D613EC
+
+		Wally - 1194
+			Image @ 0x0D61414
+			Palette @ 0x0D616E4
+
+		Player Emerald - 1195
+			Image @ 0x0D6170C
+			Palette @ 0x0D61A30
+
+		May Emerald - 1196
+			Image @ 0x0D61A58
+			Palette @ 0x0D61D58
+
+		Bug Catcher - 1197
+			Image @ 0x0D61D80
+			Palette @ 0x0D620AC
+
+		Ranger Male - 1198
+			Image @ 0x0D620D4
+			Palette @ 0x0D6241C
+
+		Ranger Female - 1199
+			Image @ 0x0D62444
+			Palette @ 0x0D62778
+
+		Magma Leader Maxie - 1200
+			Image @ 0x0D627A0
+			Palette @ 0x0D62A94
+
+		Lass - 1201
+			Image @ 0x0D62ABC
+			Palette @ 0x0D62D94
+
+		Young Couple - 1202
+			Image @ 0x0D62DBC
+			Palette @ 0x0D6317C
+
+		Old Couple - 1203
+			Image @ 0x0D631A4
+			Palette @ 0x0D636B4
+
+		Sis & Bro - 1204
+			Image @ 0x0D636DC
+			Palette @ 0x0D63B28
+
+		Steven - 1205
+			Image @ 0x0D63B50
+			Palette @ 0x0D63E88
+
+		Anabel - 1206
+			Image @ 0x0D63EB0
+			Palette @ 0x0D641B8
+
+		Tucker - 1207
+			Image @ 0x0D641E0
+			Palette @ 0x0D645E4
+
+		Spenser - 1208
+			Image @ 0x0D6460C
+			Palette @ 0x0D649B0
+
+		Greta - 1209
+			Image @ 0x0D649D8
+			Palette @ 0x0D64D08
+
+		Noland - 1210
+			Image @ 0x0D64D30
+			Palette @ 0x0D650AC
+
+		Lucy - 1211
+			Image @ 0x0D650D4
+			Palette @ 0x0D653C8
+
+		Brandon - 1212
+			Image @ 0x0D653F0
+			Palette @ 0x0D6575C
+
+		Fire - 1213
+			Image @ 0x0D65784
+			Palette @ 0x0D65A90
+
+		Leaf - 1214
+			Image @ 0x0D65AB8
+			Palette @ 0x0D65DF4
+
+		RS Player - 1215
+			Image @ 0x0D65E1C
+			Palette @ 0x0D66130
+
+		RS May - 1216
+			Image @ 0x0D66158
+			Palette @ 0x0D66458

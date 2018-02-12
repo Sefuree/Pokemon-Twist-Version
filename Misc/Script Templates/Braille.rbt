@@ -1,0 +1,16 @@
+#dynamic 0xFA0000
+
+#org @start
+lock
+faceplayer
+msgbox @1 0x6
+braille @2 
+waitkeypress
+release
+end
+
+#org @1
+= There is something strange on the stone...
+
+#org @2
+#braille =

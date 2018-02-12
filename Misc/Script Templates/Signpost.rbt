@@ -1,0 +1,9 @@
+#dynamic 0xFA0000
+
+#org @start
+lock
+msgbox @1 0x3
+release
+end
+
+#org @1
